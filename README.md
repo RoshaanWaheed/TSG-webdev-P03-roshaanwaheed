@@ -4,6 +4,12 @@ A three-page blog built with HTML5 and CSS3 (Flexbox and Grid). One shared style
 
 https://tsg-webdev-p03-roshaanwaheed.vercel.app/
 
+# All Deliverables
+
+ https://drive.google.com/drive/folders/1w_dLIt8cfB6pod2mOONNEHqJpMOhy7cs?usp=drive_link
+
+
+
 ## Pages
 | Page | File | Contents |
 |---|---|---|
