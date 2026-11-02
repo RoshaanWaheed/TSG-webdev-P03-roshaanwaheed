@@ -23,6 +23,6 @@ README.md
 
 ## Screenshots
 
-| ![Mobile view](screenshots/Home_mobile.PNG) | ![Desktop view](screenshots/Home_Desktop.PNG) | ![Mobile view](screenshots/Blog_mobile.PNG) | ![Desktop view](screenshots/Blog_desktop.PNG) | ![Mobile view](screenshots/contact_mobile.PNG) | ![Desktop view](screenshots/contact_desktop.PNG) |
+|![Mobile view](screenshots/Home_mobile.PNG) |![Mobile view](screenshots/Blog_mobile.PNG) |![Mobile view](screenshots/contact_mobile.PNG) |![Desktop view](screenshots/Home_desktop.PNG) | ![Desktop view](screenshots/Blog_desktop.PNG) | ![Desktop view](screenshots/contact_desktop.PNG) |
 
 
