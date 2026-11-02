@@ -25,6 +25,7 @@ contact.html
 css/style.css
 images/post-1.svg ... post-4.svg
 README.md
+favicon.png
 ```
 
 ## Screenshots
